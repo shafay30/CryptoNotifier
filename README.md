@@ -13,7 +13,22 @@ Key Features:
 CryptoNotifier is provided as-is and does not constitute financial advice. Users are encouraged to conduct their own research and consult with financial professionals before making any investment decisions.
 
 
-NOTE: Prices are in USD, so if using a different currency convert currencies accordingly.
+Example Usage:
+
+Output Console on IDE:
+
+![E3AA172F-5DEE-4754-958F-9BF06F577791_1_201_a](https://github.com/user-attachments/assets/385761d7-ccf1-48fe-8a4f-a094777ab3fb)
+
+Email to be received by User:
+
+
+![CB910AB9-DBD0-4733-8EEC-080E6171B892_1_201_a](https://github.com/user-attachments/assets/d9679c1b-17d5-43b8-8875-6161e829f3c7)
+
+
+
+
+
+NOTE: Prices are in USD, so if using a different currency, convert currencies accordingly.
 
 
 Updates to increase the efficiency of this program will be made from time to time.
