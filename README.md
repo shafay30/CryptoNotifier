@@ -1,4 +1,5 @@
-# Shafay Chughtai
+# CryptoNotifier
+
 CryptoNotifier is a user-friendly Python program designed to streamline the process of tracking cryptocurrency prices and receiving timely notifications when a specific target price is reached. Leveraging the Coingecko API, this program allows users to specify a particular cryptocurrency of interest and set a target price threshold in USD. Once the specified cryptocurrency reaches the predefined target price, the program sends an email notification to the user, ensuring they stay informed and can take appropriate action in a timely manner.
 
 Key Features:
